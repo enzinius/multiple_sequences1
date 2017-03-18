@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet
+  conditions="">
+  <Variable
+    Name="CompanyName"
+    Comment=""
+    Definition="Some text">My Company Name, LLC</Variable>
+  <Variable
+    Name="StreetAddress"
+    Comment=""
+    Definition="Some text"
+    OriginalName="StreetAddress">1234 Lorem Ipsum</Variable>
+  <Variable
+    Name="CityStateZip"
+    Comment=""
+    Definition="Some text">La Jolla, CA 92037</Variable>
+  <Variable
+    Name="Tollfree"
+    Comment=""
+    OriginalName="Tollfree">1-888-123-4567</Variable>
+  <Variable
+    Name="ManualTitle"
+    Comment="">Policies and Procedures Manual</Variable>
+  <Variable
+    Name="Phone"
+    Comment="">123-456-7890</Variable>
+  <Variable
+    Name="Year"
+    Comment=""
+    Type="DateTime"
+    LastUpdated="2015-12-31T10:35:56.7505688-08:00"
+    EvaluatedDefinition="yyyy">yyyy</Variable>
+</CatapultVariableSet>
